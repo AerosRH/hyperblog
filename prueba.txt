@@ -1,0 +1,3 @@
+Este es un archivo de prueba que vamos a modificar.
+
+Prueba de que commit no borra el staging
