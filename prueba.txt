@@ -5,3 +5,5 @@ Prueba de que commit no borra el staging
 Ahora
 
 Eres
+
+Prueba de que head saca del staging y ejecuta  y efectivamente lo hizo.
