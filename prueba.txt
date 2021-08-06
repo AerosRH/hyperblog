@@ -1,9 +1,0 @@
-Este es un archivo de prueba que vamos a modificar.
-
-Prueba de que commit no borra el staging
-
-Ahora
-
-Eres
-
-Prueba de que head saca del staging y ejecuta  y efectivamente lo hizo.
