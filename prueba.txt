@@ -1,0 +1,7 @@
+Este es un archivo prueba
+
+Prueba del HEAD
+
+Coregimos los errores y ahora si podemos seguir.
+
+Nuevo Metodo.
