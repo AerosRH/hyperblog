@@ -1,4 +1,4 @@
-##Hyperblog 💚
+**###Hyperblog** 💚
 
 Este es un repositorio donde guardo los archivos del Curso de Git y Github.
 > Nunca pares de aprender. 
