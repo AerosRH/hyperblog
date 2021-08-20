@@ -7,4 +7,4 @@ En un principio no sabia nada de Git y Github, nunca pense que fuera una herrami
 
 No me queda mas que decir que **git init**.
 
-P.D. Este es un curso que vas a tardar en tomar, pero no te desanimes porque Freddy te explica cada cosa de una manera increible.
+P.D. Este es un curso que vas a tardar en tomar, pero no te desanimes porque Freddy te explica cada cosa de una manera increible. Ademas de que es muy divertido en sus clases. Asi que, que esperas para tomar el curso.
